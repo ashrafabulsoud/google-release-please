@@ -23,7 +23,7 @@ npx skills add https://github.com/ashrafabulsoud/google-release-please -g
 npx skills add https://github.com/ashrafabulsoud/google-release-please --list
 ```
 
-The repository is private, so the `skills` CLI needs a git credential that can read it. A GitHub CLI login (`gh auth login`) or an SSH key configured for GitHub is enough.
+The repository is public, so no GitHub credentials are needed to install.
 
 Manual install for Claude Code only:
 
